@@ -41,7 +41,6 @@ dependencies {
 //    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     embed(name:'mysdklibrary', ext:'aar')
     embed(name:'finger', ext:'aar')
-    embed(name:'fingerprint', ext:'aar')
     embed(name:'fingersdk', ext:'aar')
     embed(name:'utilcode-1.25.9', ext:'aar')
 //    embed(name:'eventbus-3.0.0', ext:'jar')
